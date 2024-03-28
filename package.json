@@ -1,0 +1,16 @@
+{
+  "name": "atm-innovation",
+  "version": "1.0.0",
+  "description": "user can deposit,withdrawal and check the amount",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ASAD",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
